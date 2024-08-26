@@ -1,0 +1,9 @@
+.bg-radious {
+  clip-path: polygon(100% 1%, 100% 43%, 100% 100%, 52% 71%, 0 100%, 0 1%);
+}
+
+/* Add this to your CSS file */
+.custom-select-label .select-label {
+  color: white; /* Changes the label color to white */
+}
+
